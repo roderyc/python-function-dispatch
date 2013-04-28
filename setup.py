@@ -12,10 +12,7 @@ setup(
   classifiers = [
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
-        'Programming Language :: C',
-        'Programming Language :: Cython',
         'Programming Language :: Python',
-        'Topic :: Database :: Database Engines/Servers',
         'Topic :: Software Development :: Libraries :: Python Modules',
         ],
   py_modules=['typedispatch'],
