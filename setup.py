@@ -18,5 +18,6 @@ setup(
         'Topic :: Database :: Database Engines/Servers',
         'Topic :: Software Development :: Libraries :: Python Modules',
         ],
-  py_modules=['src/typedispatch'],
+  py_modules=['typedispatch'],
+  package_dir={'': 'src'}
 )
